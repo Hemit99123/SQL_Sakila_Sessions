@@ -1,3 +1,5 @@
+USE sakila;
+
 -- Write a query that filters the films by the rating of PG-13
 SELECT *
 FROM film
